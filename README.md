@@ -2,6 +2,8 @@
 
 <!--
 **emmanuelkamala/emmanuelkamala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Header](https://raw.githubusercontent.com/emmanuelkamala/<OWNER>/<OWNER>/readme_header.png "Header")](https://emmanuelkamala.me/)
+
 
 Here are some ideas to get you started:
 
