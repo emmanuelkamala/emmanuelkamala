@@ -6,6 +6,8 @@
 
 📡 React | Redux | JavaScript | Ruby on Rails
 
+:octocat: Checkout my <a href="https://emmanuelkamala.me">portfolio</a>
+
 <!--
 **emmanuelkamala/emmanuelkamala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
