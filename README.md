@@ -1,6 +1,6 @@
 ### Hi there, I'm Emmanuel Kamala 👋
 
-🐛 Full-stack developer. Available for new opportunities!
+🐛 A Full-stack developer. Available for Job opportunities!
 
 💸 I am glad to relocate or work remotely
 
