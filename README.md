@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Emmanuel Kamala 👋
+
+🐛 Full-stack developer. Available for new opportunities!
+
+💸 I am glad to relocate or work remotely
+
+📡 React | Redux | JavaScript | Ruby on Rails
 
 <!--
 **emmanuelkamala/emmanuelkamala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
