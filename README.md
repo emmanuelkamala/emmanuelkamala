@@ -6,7 +6,7 @@
 
 📡 React | Redux | JavaScript | Ruby on Rails
 
-:octocat: Checkout my <a href="https://emmanuelkamala.netlify.app">portfolio</a>
+:octocat: Checkout my portfolio(coming soon...)
 
 <!--
 **emmanuelkamala/emmanuelkamala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
